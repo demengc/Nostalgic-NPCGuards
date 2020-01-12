@@ -1,0 +1,10 @@
+# Configuration file for Nostalgic-NPCGuards.
+
+prefix: "&7[&6Nostalgic-NPCGuards&7] &r"
+no-permission: "&eYou do not have permission to execute that command."
+console: "&eYou can only execute this command as a player."
+successfully-reloaded: "&eReloaded all configuration files."
+skin-name: "Notch"
+successfully-spawned: "&eA guard has been set."
+not-npc: "&ePlease place your cursor on a guard NPC and try again."
+successfully-removed: "&eGuard has been successfully removed."

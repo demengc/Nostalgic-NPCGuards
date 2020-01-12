@@ -1,0 +1,8 @@
+name: Nostalgic-NPCGuards
+version: ${project.version}
+main: com.demeng7215.nostalgicnpcguards.NPCGuards
+api-version: 1.13
+author: Demeng7215
+description: Spawn NPC guards holding crossbows.
+website: https://demeng7215.com
+depend: [Citizens]
